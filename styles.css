@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Khula&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Khula&display=swap');
 
 * {
   box-sizing: border-box;
@@ -6,7 +6,7 @@
 
 body {
   color: #fff;
-  font-family: "Khula", sans-serif;
+  font-family: 'Khula', sans-serif;
   height: 100vh;
   overflow: hidden;
   margin: 0;
@@ -99,6 +99,5 @@ h1 {
   position: absolute;
   border-radius: 50%;
   cursor: pointer;
-  background-image: url("3.jpg");
   background-size: cover;
 }
